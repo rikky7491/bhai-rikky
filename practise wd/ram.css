@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+}
+.card{
+    background-color: white;
+    width: 194px;
+    height: 394px;
+    border-radius: 7px;
+    border-radius: 7px;
+}
+.image{
+    padding: 5px;
+}
+.content{
+    padding: 3px;
+}
+.capsules span{
+    border: 2px solid black;
+    padding: 4px;
+    border-radius: 7px;
+
+}
+.capsules span:hover{
+    background-color: red;
+}
+.capsules{
+    padding: 0 34px;
+}
